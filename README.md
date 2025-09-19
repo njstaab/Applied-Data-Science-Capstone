@@ -1,0 +1,1 @@
+This respository contains notebooks required for the IBM Data Science certification capstone project.  One of those requirements is to save the notebooks GitHub and project a url for peer review and grading.
